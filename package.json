@@ -1,5 +1,5 @@
 {
-  "name": "rtcmel8r",
+  "name": "rtcul8r",
   "version": "0.0.2",
   "description": "ndx-framework web app",
   "main": "app/main.js",
@@ -9,16 +9,16 @@
     "pack-mac": "build --mac -p always"
   },
   "build": {
-    "appId": "com.ndxbxrme.rtcmel8r",
-    "productName": "rtcmel8r"
+    "appId": "com.ndxbxrme.rtcul8r",
+    "productName": "rtcul8r"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ndxbxrme/rtcmel8r"
+    "url": "https://github.com/ndxbxrme/rtcul8r"
   },
   "author": "ndxbxrme",
   "license": "MIT",
-  "homepage": "https://github.com/ndxbxrme/rtcmel8r",
+  "homepage": "https://github.com/ndxbxrme/rtcul8r",
   "devDependencies": {
     "electron": "^7.0.0",
     "electron-builder": "^22.1.0",
