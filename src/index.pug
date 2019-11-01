@@ -1,0 +1,10 @@
+html
+  head
+    base(href='/')
+    link(rel='stylesheet', href='app/app.css')
+  body
+    .message-panel
+      input(type='text', onchange='renderer.sendMessage()')
+      .messages
+    script.
+      window.renderer = require('./renderer');
